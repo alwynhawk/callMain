@@ -11,3 +11,5 @@ public class Main {
         return n * n;
     }
 }
+
+//code by alwyn
